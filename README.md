@@ -50,8 +50,6 @@ Limitations:
 - We only look for new or in-progress projects.
 - We only look for open opportunities.
 
-![dds](img/dds.png)
-
 
 ### Create Card Shortcuts
 When you want to create a contact, project, opportunity or form quickly, you can bring up the create card using the _dln_ shortcut.
