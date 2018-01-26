@@ -27,6 +27,7 @@ dld worklist
 dld …
 ```
 
+![dld](img/dld.png)
 
 
 ### Search for People, Companies, Open Opportunities and Projects.
@@ -49,6 +50,8 @@ Limitations:
 - We only look for new or in-progress projects.
 - We only look for open opportunities.
 
+![dds](img/dds.png)
+
 
 ### Create Card Shortcuts
 When you want to create a contact, project, opportunity or form quickly, you can bring up the create card using the _dln_ shortcut.
@@ -64,6 +67,7 @@ dln appointment
 dln client intake form
 ```
 
+![dln](img/dln.png)
 
 ### Create a Task
 You often want to create a task quickly. Of course, Daylite has the New Task hotkey which works great.
@@ -76,6 +80,8 @@ You can create a task and put it in your worklist, in-progress, inbox or someday
 ```
 ddt <task title>
 ```
+
+![ddt](img/ddt.png)
 
 ### Delegate a Task
 Similar to task creation, you can delegate a new task to someone without leaving your keyboard at all.
