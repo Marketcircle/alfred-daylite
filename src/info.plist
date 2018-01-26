@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.marketcircle.daylite.alfred</string>
+	<key>category</key>
+	<string>Productivity</string>
+	<key>connections</key>
+	<dict>
+		<key>04775694-024C-4E20-A35B-353FC336FEC9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>049193CB-1FF0-4CF3-B2C5-F8D4A1D20FD8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>049193CB-1FF0-4CF3-B2C5-F8D4A1D20FD8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>57E3C618-A81B-4766-8C34-2502225B23F3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>160F75C4-1839-4D1C-AAF8-00D2FEFC0A94</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>04775694-024C-4E20-A35B-353FC336FEC9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1974EB48-1F18-4F5F-B1EA-4F75F23AF138</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>771F7EC7-164C-495B-ABAE-EAAF1E7C6FDB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4CA5E508-36CE-46C3-B7D0-F6AA45AE2A46</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6E817154-7879-498F-9E37-F4B17A3C32C3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+		</array>
+		<key>4E19CA5D-88D6-4EC1-A190-C1E765B31188</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>432B2BB7-F59A-43A9-85B3-3434B9120C0B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>54BF0F2D-9B72-4AF0-8E83-3EA0E3360056</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7D67D0DB-EF51-4896-8296-C656C2A8C884</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>57E3C618-A81B-4766-8C34-2502225B23F3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>71272D18-7F7F-4FA9-926B-A88782DEF6FC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5BF64829-39E8-4680-942C-CB4574EB0F7C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>160F75C4-1839-4D1C-AAF8-00D2FEFC0A94</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6E817154-7879-498F-9E37-F4B17A3C32C3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>918022B8-55F4-4591-ABA8-377AB9FE1C2D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>71272D18-7F7F-4FA9-926B-A88782DEF6FC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3E058D24-1882-4B46-BD1A-E80C497607F0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>74ACA8CC-8F72-4A09-9131-E2C94221E892</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4EAFEA40-F88B-4083-9B47-CA095A3C2567</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>918022B8-55F4-4591-ABA8-377AB9FE1C2D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F9CA9133-E174-47C8-A38D-4F1935D8300B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C690088E-21FC-4E1C-9F94-EF748981F6B8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>54BF0F2D-9B72-4AF0-8E83-3EA0E3360056</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F9CA9133-E174-47C8-A38D-4F1935D8300B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C690088E-21FC-4E1C-9F94-EF748981F6B8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Marketcircle Inc.</string>
+	<key>description</key>
+	<string>Shortcuts for Daylite</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Daylite</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>-- Expects a string such as Team::123900 or User::3400 or Sourcelist::com.marketcircle.home
+
+on run argv
+  set argument to item 1 of argv
+  tell application "Daylite"
+  		activate
+  		eval "
+  		
+  		doc := DLDocument dlDocument.
+		ctl := doc firstOrderedMainWindowController.
+		mainView := ctl selectedMainView.
+
+  		
+		parts := argument componentsSeparatedByString:'::'.
+		type := parts at: 0.
+		identifier := parts at: 1.
+
+  		(type = 'Sourcelist') ifTrue: [
+  			mainView selectSidebarItemWithIdentifier:identifier.
+  		]
+  		ifFalse: [
+  			(type = 'Team') ifTrue: [
+  				team := objectContext objectForEntityNamed:'Team' 
+							wherePrimaryKeyValueIs:identifier.
+				sort := {(NSSortDescriptor sortDescriptorWithKey:'contact.cachedName' 
+							ascending:true)}.
+		
+				users := (((team users) filteredArrayUsingPredicate:
+							(NSPredicate predicateWithFormat:'active = 1')) 
+							sortedArrayUsingDescriptors:sort).
+  			]
+  			ifFalse: [
+  				user := objectContext objectForEntityNamed:'User'
+							wherePrimaryKeyValueIs:identifier.
+  				users := {user}.
+  			].
+  			
+  			mainView selectSidebarItemWithIdentifier: 'com.marketcircle.home'.
+			mainView goToAllCalendarSelectUsers:users.
+
+			(users count = 1) ifTrue:[
+				mainView goToCalendarWeekView.
+			].
+
+  		].
+
+	" with argument	
+	end tell
+end run</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4EAFEA40-F88B-4083-9B47-CA095A3C2567</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>dld</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Getting the list</string>
+				<key>script</key>
+				<string>tell application "Daylite"
+	eval "
+
+		array := {}.
+
+
+		options := objectContext optionsCache.
+		teams := options valueForKey:'publicTeams'.
+		
+				
+		teams do:[:team |
+
+			arg := ('Team::' ++ ((team teamID) stringValue)).
+		
+			array add: #{
+				'title' -&gt; (team name),
+				'subtitle' -&gt; 'Team',
+				'arg' -&gt; arg, 
+				'uid' -&gt; arg, 
+				'autocomplete' -&gt; (team name),
+				'icon' -&gt; #{
+					'path' -&gt; 'DLUsersAndTeams.png'
+				}
+			}.
+			 
+		].
+
+
+		users := options valueForKey:'activeUsersWithMeFirst'.
+	
+		users do:[:user |
+
+			arg := ('User::' ++ ((user userID) stringValue)).
+
+			array add: #{
+				'title' -&gt; (user displayNameOrMe),
+				'subtitle' -&gt; 'User', 
+				'arg' -&gt; arg, 
+				'uid' -&gt; arg, 
+				'autocomplete' -&gt; (user displayNameOrMe),
+				'icon' -&gt; #{
+					'path' -&gt; 'DLLargePerson.png'
+				}
+
+			}. 
+		].
+
+
+		doc := DLDocument dlDocument.
+		ctl := doc firstOrderedMainWindowController.
+		mainView := ctl selectedMainView.
+		sideMan := mainView sidebarManager.
+		allItems := sideMan allItems.
+
+		mappings := #{	'Timeblock' -&gt; 'Calendar',
+						'Contact' -&gt; 'People',
+						'Organization' -&gt; 'Companies'
+						}.
+
+		
+		allItems do:[:item |
+			(item isSelectable) ifTrue:[
+
+
+				subtitle := (item title).
+				entity := (((item viewConfiguration) at:'sourceList') entityName).
+				form := ((item viewConfiguration) at:'customRecordSetDefinition').
+				
+			
+				(entity ~~ nil) ifTrue: [
+					name := mappings objectForKey:entity.
+					
+					(name == nil) ifTrue: [
+						name := entity.
+					].
+				
+					subtitle := name ++ ' - ' ++ (item title).
+				]
+				ifFalse: [
+					
+					 (form ~~ nil) ifTrue:[
+					 	subtitle := 'Form - ' ++ (item title).
+					 ].
+				].
+
+
+				arg := ('Sourcelist::' ++ (item identifier)).
+
+				array add: #{	
+							'title' -&gt; (item title), 
+							'arg' -&gt; arg, 
+							'uid' -&gt; arg,
+							'subtitle' -&gt; subtitle,
+							'autocomplete' -&gt; (item title)
+				}.			
+
+			].
+		].
+		
+
+
+
+		container := #{'items' -&gt; array}.
+		json := container JSONRepresentation.
+		json.
+		
+	"
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>dld - Daylite sourcelists and users</string>
+				<key>title</key>
+				<string>Daylite Sourcelists and Users</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>74ACA8CC-8F72-4A09-9131-E2C94221E892</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>on run
+  set args to "{query}"
+  tell application "Daylite"
+	activate
+	eval "
+
+		object := objectContext objectForStringReferenceIdentifier:argument.
+		
+		doc := DLDocument dlDocument.
+		doc showObject:object inNewTab:false.
+
+	" with args
+  end tell
+end run</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>771F7EC7-164C-495B-ABAE-EAAF1E7C6FDB</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>1</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>dds</string>
+				<key>queuedelaycustom</key>
+				<integer>4</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>2</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Searching for "{query}"</string>
+				<key>script</key>
+				<string>set arg to "{query}"
+
+tell application "Daylite"	eval "
+		batchSize := 12.
+		sortOrdering := (BDSortOrdering sortOrderingWithKey:'modifyDate' 
+				selector:#compareDescending:).
+
+		partial := '*' ++ argument ++ '*'.
+
+		qualifier := BDQualifier qualifierWithLocum:'cachedName caseInsensitiveLike $partial'
+								 bindings:#{'partial' -&gt; partial}.
+	
+	
+		spec := ((MCPFetchSpecification alloc) initWithDictionary:#{}).
+    		spec setEntityName:'Contact'.
+    		spec setQualifier:qualifier.
+		spec setBatchSize:batchSize.
+		spec addToSortOrderings:sortOrdering.
+
+
+		request := ((MCPFetchRequest alloc) initWithFetchSpecification:spec).
+		results := (objectContext resultsForFetchRequest:request).
+		
+		array := {}.
+		
+		results do:[:object |
+
+			subtitle := (object cachedName).
+
+			(((object category) name) ~~ nil) ifTrue:[
+				subtitle := ((object category) name).
+
+				((object cachedDefaultOrganizationName) ~~ nil) ifTrue:[
+					subtitle := subtitle ++ ' - ' ++ (object cachedDefaultOrganizationName).
+				
+					((object cachedDefaultRoleName) ~~ nil) ifTrue:[
+						subtitle := subtitle ++ ' - ' ++ (object cachedDefaultRoleName).
+					].
+				].
+
+			].
+			
+
+			arg := ('Contact-' ++ ((object contactID) stringValue)).
+
+			array add:#{
+				'title' -&gt; (object cachedName),
+				'subtitle' -&gt; subtitle,
+				'autocomplete' -&gt; (object cachedName),
+				'uid' -&gt; arg,
+				'arg' -&gt; arg,
+				'icon' -&gt; #{
+					'path' -&gt; 'DLLargePerson.png'
+				}
+			}.
+			
+		].
+
+
+		qualifier := BDQualifier qualifierWithLocum:'name caseInsensitiveLike $partial'
+								 bindings:#{'partial' -&gt; partial}.
+	
+	
+		spec := ((MCPFetchSpecification alloc) initWithDictionary:#{}).
+    		spec setEntityName:'Organization'.
+    		spec setQualifier:qualifier.
+		spec setBatchSize:batchSize.
+		spec addToSortOrderings:sortOrdering.
+
+		request := ((MCPFetchRequest alloc) initWithFetchSpecification:spec).
+		results := (objectContext resultsForFetchRequest:request).
+				
+		results do:[:object |
+
+			subtitle := (object name).
+
+			(((object category) name) ~~ nil) ifTrue:[
+				subtitle := ((object category) name).
+
+				((object tagline) ~~ nil) ifTrue:[
+					subtitle := subtitle ++ ' - ' ++ (object tagline).		
+				].
+			].
+
+			arg := ('Organization-' ++ ((object organizationID) stringValue)).
+
+			array add:#{
+				'title' -&gt; (object name),
+				'subtitle' -&gt; subtitle,
+				'autocomplete' -&gt; (object name),
+				'uid' -&gt; arg,
+				'arg' -&gt; arg,
+				'icon' -&gt; #{
+					'path' -&gt; 'DLLargeCompany.png'
+				}
+			}.
+			
+		].
+	
+	
+		qualifier := BDQualifier qualifierWithLocum:'(statusCode = 4 or statusCode = 0) and name caseInsensitiveLike $partial' bindings:#{'partial' -&gt; partial}.
+	
+	
+		spec := ((MCPFetchSpecification alloc) initWithDictionary:#{}).
+    		spec setEntityName:'Project'.
+    		spec setQualifier:qualifier.
+		spec setBatchSize:batchSize.
+		spec addToSortOrderings:sortOrdering.
+
+		request := ((MCPFetchRequest alloc) initWithFetchSpecification:spec).
+		results := (objectContext resultsForFetchRequest:request).
+		
+		results do:[:object |
+		
+			subtitle := (object name).
+			
+			(((object category) name) ~~ nil) ifTrue:[
+				subtitle := ((object category) name).
+			].
+			
+			uid := ('Project-' ++ ((object projectID) stringValue)).
+		
+			array add:#{
+				'title' -&gt; (object name),
+				'subtitle' -&gt; subtitle,
+				'autocomplete' -&gt; (object name),
+				'uid' -&gt; uid,
+				'arg' -&gt; uid,
+				'icon' -&gt; #{
+					'path' -&gt; 'DLLargeProject.png'
+				}
+			}.
+			
+		].
+
+
+		qualifier := BDQualifier qualifierWithLocum:'(opportunityStateType = 1 or opportunityStateType = 0) and name caseInsensitiveLike $partial' bindings:#{'partial' -&gt; partial}.
+	
+	
+		spec := ((MCPFetchSpecification alloc) initWithDictionary:#{}).
+    		spec setEntityName:'Opportunity'.
+    		spec setQualifier:qualifier.
+		spec setBatchSize:batchSize.
+		spec addToSortOrderings:sortOrdering.
+
+		request := ((MCPFetchRequest alloc) initWithFetchSpecification:spec).
+		results := (objectContext resultsForFetchRequest:request).
+		
+		results do:[:object |
+		
+			subtitle := (object name).
+			
+			(((object category) name) ~~ nil) ifTrue:[
+				subtitle := ((object category) name).
+			].
+			
+			uid := ('Opportunity-' ++ ((object opportunityID) stringValue)).
+		
+			array add:#{
+				'title' -&gt; (object name),
+				'subtitle' -&gt; subtitle,
+				'autocomplete' -&gt; (object name),
+				'uid' -&gt; uid,
+				'arg' -&gt; uid,
+				'icon' -&gt; #{
+					'path' -&gt; 'DLLargeOpportunity.png'
+				}
+			}.
+			
+		].
+
+	
+		container := #{'items' -&gt; array}.
+		json := container JSONRepresentation.
+		json.
+
+	" with argend tell</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Searching for "{query}"</string>
+				<key>title</key>
+				<string>dds - Daylite Search Person, Company, Project and Opportunity</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>1974EB48-1F18-4F5F-B1EA-4F75F23AF138</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>on run argv
+  set argument to item 1 of argv
+  	tell application "Daylite"		
+  	eval "
+  	
+  		doc := DLDocument dlDocument.
+  	
+  		parts := argument componentsSeparatedByString:'::'.
+		type := parts at: 0.
+		identifier := parts at: 1.
+		
+		(type = 'entity') ifTrue:[
+			ctl := doc openCreateWindowForObjectWithEntityName:identifier 
+							initialAttributes:nil 
+							linkedObjects: nil 
+							showWindow:false.
+			win := ctl window.
+			win setLevel: NSFloatingWindowLevel.
+	
+			win center.
+			win makeKeyAndOrderFront:nil.
+
+		].
+		
+		(type = 'hotkey') ifTrue:[
+			doc showTaskQuickEntryWindow:nil.
+		].
+		
+		(type = 'form') ifTrue:[
+			def := objectContext objectForEntityNamed:'CustomRecordSetDefinition' 
+							wherePrimaryKeyValueIs:identifier.
+		
+			ctl := doc openCreateWindowForCustomRecordSetWithCustomRecordSetDefinition:def 
+							initialAttributes:nil 
+							linkedObjects:nil.
+							
+			win := ctl window.
+			win setLevel: NSFloatingWindowLevel.
+			win center.
+
+		].
+
+	
+		((NSApplication sharedApplication) activateIgnoringOtherApps:true).
+	" with argument	
+	end tell
+end run</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>432B2BB7-F59A-43A9-85B3-3434B9120C0B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>dln</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Getting types and forms</string>
+				<key>script</key>
+				<string>tell application "Daylite"	eval "
+		
+		array := {}.
+		
+		array add: #{
+			'title' -&gt; 'New Appointment',
+			'subtitle' -&gt; 'Make a new meeting or appointment',
+			'uid' -&gt; 'Timeblock',
+			'arg' -&gt; ('entity::' ++ 'Timeblock'),
+			'autocomplete' -&gt; 'New Appointment',
+			'icon' -&gt; #{
+				'path' -&gt; 'DLLargeAppointment.png'
+			}
+		}.
+
+		array add: #{
+			'title' -&gt; 'New Task',
+			'subtitle' -&gt; 'Make a new task',
+			'uid' -&gt; 'Task',
+			'arg' -&gt; ('hotkey::' ++ 'Task'),
+			'autocomplete' -&gt; 'New Task',
+			'icon' -&gt; #{
+				'path' -&gt; 'DLLargeTask.png'
+			}
+		}.
+
+		array add: #{
+			'title' -&gt; 'New Note',
+			'subtitle' -&gt; 'Make a new note',
+			'uid' -&gt; 'Note',
+			'arg' -&gt; ('entity::' ++ 'Note'),
+			'autocomplete' -&gt; 'New Note',
+			'icon' -&gt; #{
+				'path' -&gt; 'DLLargeNote.png'
+			}
+		}.
+
+		array add: #{
+			'title' -&gt; 'New Person',
+			'subtitle' -&gt; 'Make a new person',
+			'uid' -&gt; 'Contact',
+			'arg' -&gt; ('entity::' ++ 'Contact'),
+			'autocomplete' -&gt; 'New Person',
+			'icon' -&gt; #{
+				'path' -&gt; 'DLLargePerson.png'
+			}
+		}.
+
+		array add: #{
+			'title' -&gt; 'New Company',
+			'subtitle' -&gt; 'Make a new company',
+			'uid' -&gt; 'Organization',
+			'arg' -&gt; ('entity::' ++ 'Organization'),
+			'autocomplete' -&gt; 'New Company',
+			'icon' -&gt; #{
+				'path' -&gt; 'DLLargeCompany.png'
+			}
+		}.
+
+		array add: #{
+			'title' -&gt; 'New Project',
+			'subtitle' -&gt; 'Make a new project',
+			'uid' -&gt; 'Project',
+			'arg' -&gt; ('entity::' ++ 'Project'),
+			'autocomplete' -&gt; 'New Project',
+			'icon' -&gt; #{
+				'path' -&gt; 'DLLargeProject.png'
+			}
+		}.
+		
+		array add: #{
+			'title' -&gt; 'New Opportunity',
+			'subtitle' -&gt; 'Make a new opportunity',
+			'uid' -&gt; 'Opportunity',
+			'arg' -&gt; ('entity::' ++ 'Opportunity'),
+			'autocomplete' -&gt; 'New Opportunity',
+			'icon' -&gt; #{
+				'path' -&gt; 'DLLargeOpportunity.png'
+			}
+		}.
+
+		array add: #{
+			'title' -&gt; 'New Group',
+			'subtitle' -&gt; 'Make a new group',
+			'uid' -&gt; 'Group',
+			'arg' -&gt; ('entity::' ++ 'Group'),
+			'autocomplete' -&gt; 'New Group',
+			'icon' -&gt; #{
+				'path' -&gt; 'DLLargeGroup.png'
+			}
+		}.
+
+		
+		
+		options := objectContext optionsCache.
+		forms := options valueForKey:'activeCustomRecordSetDefinitions'.		
+		
+		forms do:[:form |
+		
+			name := (form name).
+				
+			(name == nil) ifTrue:[
+				name := 'No name'.
+			].
+
+		
+			array add: #{
+				'title' -&gt; name,
+				'subtitle' -&gt; 'Form',
+				'uid' -&gt; (form customRecordSetDefinitionID),
+				'arg' -&gt; ('form::' ++ ((form customRecordSetDefinitionID) stringValue)),
+				'autocomplete' -&gt; name,
+				'icon' -&gt; #{
+					'path' -&gt; 'DLLargeForm.png'
+				}
+			}.
+		].
+	
+		container := #{'items' -&gt; array}.
+		json := container JSONRepresentation.
+		json.
+
+	"	end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>dln - Make a new Daylite object or form</string>
+				<key>title</key>
+				<string>New Daylite Object or Form</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>4E19CA5D-88D6-4EC1-A190-C1E765B31188</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>on run argv
+
+set encodedTaskString to item 1 of argv
+
+
+	tell application "Daylite"
+	eval "
+
+		task := objectContext createObjectForEntityNamed:'Task' insert:true.
+
+
+		(argument hasPrefix:'worklist::') ifTrue:[
+			text := argument stringByRemovingPrefix:'worklist::'.
+
+			task setTitle:text.
+			task setIsOnWorklist:true.
+			task removeFromInbox.
+
+		].
+
+		(argument hasPrefix:'inprogress::') ifTrue:[
+			text := argument stringByRemovingPrefix:'inprogress::'.
+
+			task setTitle:text.
+			task setIsOnWorklist:true.
+			task markAsInProgress.
+			task removeFromInbox.
+
+		].
+		
+
+		(argument hasPrefix:'inbox::') ifTrue: [
+			text := argument stringByRemovingPrefix:'inbox::'.
+
+			task setTitle:text.
+
+		].
+
+		(argument hasPrefix:'someday::') ifTrue: [
+			text := argument stringByRemovingPrefix:'someday::'.
+
+			task setTitle:text.
+			task setSomeday:1.
+			task removeFromInbox.
+		].
+
+		objectContext saveChanges.
+
+		task taskID.
+
+	" with encodedTaskString
+
+	end tell
+
+end run</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>54BF0F2D-9B72-4AF0-8E83-3EA0E3360056</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{var:task}</string>
+				<key>title</key>
+				<string>Added task to Daylite as a {var:type} item</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>7D67D0DB-EF51-4896-8296-C656C2A8C884</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{var:task}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>C690088E-21FC-4E1C-9F94-EF748981F6B8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>fixedorder</key>
+				<false/>
+				<key>items</key>
+				<string>[{"imagefile":"b19b3859425e867eaaf8c5dee14343ef8038095d.png","title":"Worklist","arg":"worklist","subtitle":"You will do this asap"},{"imagefile":"375156bf51640fe5520c63d3e8d9e96907cea2c1.png","title":"Inbox","arg":"inbox","subtitle":"You'll review and prioritize later"},{"imagefile":"4383b888c8600236a20bd5df4c99fd2479fe791c.png","title":"In Progress","arg":"inprogress","subtitle":"A task you are currently doing that you forgot to add earlier"},{"imagefile":"3d82adfa746d97ca84ef92a3738e966df37c43b5.png","title":"Someday","arg":"someday","subtitle":"Someday in the future, you'll review and see if you want to do it"}]</string>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Which list would you like to use?</string>
+				<key>title</key>
+				<string>Choose a task list</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>918022B8-55F4-4591-ABA8-377AB9FE1C2D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>ddt</string>
+				<key>subtext</key>
+				<string>ddt - What's your task?</string>
+				<key>text</key>
+				<string>Add a Task to Daylite</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>4CA5E508-36CE-46C3-B7D0-F6AA45AE2A46</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}::{var:task}</string>
+				<key>variables</key>
+				<dict>
+					<key>type</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>F9CA9133-E174-47C8-A38D-4F1935D8300B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>variables</key>
+				<dict>
+					<key>task</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>6E817154-7879-498F-9E37-F4B17A3C32C3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{var:task}</string>
+				<key>title</key>
+				<string>Delegated task in Daylite</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>3E058D24-1882-4B46-BD1A-E80C497607F0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Getting users from Daylite</string>
+				<key>script</key>
+				<string>tell application "Daylite"	eval "
+		options := objectContext optionsCache.
+		users := options valueForKey:'activeUsersWithMeFirst'.
+		
+		array := {}.
+		
+		users do:[:user |
+			array add: #{
+				'title' -&gt; (user displayNameOrMe), 
+				'subtitle' -&gt; 'User',
+				'arg' -&gt; (user userID), 
+				'uid' -&gt; (user userID), 
+				'autocomplete' -&gt; (user displayNameOrMe),
+				'icon' -&gt; #{
+					'path' -&gt; 'DLLargePerson.png'
+				}
+			}. 
+		].
+
+		container := #{'items' -&gt; array}.
+		json := container JSONRepresentation.
+		json.
+		
+	"end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Type a few letters in the user's name</string>
+				<key>title</key>
+				<string>Pick a user to delegate to</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>04775694-024C-4E20-A35B-353FC336FEC9</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>ddd</string>
+				<key>subtext</key>
+				<string>ddd - Delegate a task to another user in Daylite</string>
+				<key>text</key>
+				<string>Delegate a Task in Daylite</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>5BF64829-39E8-4680-942C-CB4574EB0F7C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}::{var:task}</string>
+				<key>variables</key>
+				<dict>
+					<key>userid</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>049193CB-1FF0-4CF3-B2C5-F8D4A1D20FD8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>variables</key>
+				<dict>
+					<key>task</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>160F75C4-1839-4D1C-AAF8-00D2FEFC0A94</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{var:userid}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>57E3C618-A81B-4766-8C34-2502225B23F3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>on run argv
+
+set encodedTaskString to item 1 of argv
+
+	tell application "Daylite"
+	eval "
+
+		parts := argument componentsSeparatedByString:'::'.
+		sys log: parts.
+
+		userid := parts at: 0.
+		text := parts at: 1.
+
+		user := objectContext objectForEntityNamed:'User' wherePrimaryKeyValueIs:userid.
+		task := objectContext createObjectForEntityNamed:'Task' insert:true.
+
+		task setTitle:text.
+
+		objectContext delegateObject:task toUser:user withNote:nil notifyUserOfChanges:true.
+
+		objectContext saveChanges.
+
+	" with encodedTaskString
+
+	end tell
+
+end run</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>71272D18-7F7F-4FA9-926B-A88782DEF6FC</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>This workflow integrates with Daylite 6.4 and newer.
+
+You can do the following:
+- Go to a specific standard view
+- Go to a team's calendar
+- Go to a user's calendar
+- Create a task and put it in your worklist, inbox, someday or in progress.
+- Delegate a task to another user in Daylite
+- Shortcuts to bring up create object window (including forms)
+- Search for People, Companies, Projects and Opportunities</string>
+	<key>uidata</key>
+	<dict>
+		<key>04775694-024C-4E20-A35B-353FC336FEC9</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>350</integer>
+			<key>ypos</key>
+			<integer>1030</integer>
+		</dict>
+		<key>049193CB-1FF0-4CF3-B2C5-F8D4A1D20FD8</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>540</integer>
+			<key>ypos</key>
+			<integer>1060</integer>
+		</dict>
+		<key>160F75C4-1839-4D1C-AAF8-00D2FEFC0A94</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>xpos</key>
+			<integer>250</integer>
+			<key>ypos</key>
+			<integer>1060</integer>
+		</dict>
+		<key>1974EB48-1F18-4F5F-B1EA-4F75F23AF138</key>
+		<dict>
+			<key>xpos</key>
+			<integer>40</integer>
+			<key>ypos</key>
+			<integer>230</integer>
+		</dict>
+		<key>3E058D24-1882-4B46-BD1A-E80C497607F0</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>xpos</key>
+			<integer>890</integer>
+			<key>ypos</key>
+			<integer>910</integer>
+		</dict>
+		<key>432B2BB7-F59A-43A9-85B3-3434B9120C0B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>390</integer>
+			<key>ypos</key>
+			<integer>440</integer>
+		</dict>
+		<key>4CA5E508-36CE-46C3-B7D0-F6AA45AE2A46</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>note</key>
+			<string>Quick task entry in Worklist, Inbox, Someday or In Progress.</string>
+			<key>xpos</key>
+			<integer>70</integer>
+			<key>ypos</key>
+			<integer>800</integer>
+		</dict>
+		<key>4E19CA5D-88D6-4EC1-A190-C1E765B31188</key>
+		<dict>
+			<key>xpos</key>
+			<integer>50</integer>
+			<key>ypos</key>
+			<integer>450</integer>
+		</dict>
+		<key>4EAFEA40-F88B-4083-9B47-CA095A3C2567</key>
+		<dict>
+			<key>xpos</key>
+			<integer>250</integer>
+			<key>ypos</key>
+			<integer>60</integer>
+		</dict>
+		<key>54BF0F2D-9B72-4AF0-8E83-3EA0E3360056</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>xpos</key>
+			<integer>790</integer>
+			<key>ypos</key>
+			<integer>690</integer>
+		</dict>
+		<key>57E3C618-A81B-4766-8C34-2502225B23F3</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>xpos</key>
+			<integer>670</integer>
+			<key>ypos</key>
+			<integer>1060</integer>
+		</dict>
+		<key>5BF64829-39E8-4680-942C-CB4574EB0F7C</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>note</key>
+			<string>Delegate a task to a user.</string>
+			<key>xpos</key>
+			<integer>70</integer>
+			<key>ypos</key>
+			<integer>1030</integer>
+		</dict>
+		<key>6E817154-7879-498F-9E37-F4B17A3C32C3</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>xpos</key>
+			<integer>260</integer>
+			<key>ypos</key>
+			<integer>830</integer>
+		</dict>
+		<key>71272D18-7F7F-4FA9-926B-A88782DEF6FC</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>xpos</key>
+			<integer>780</integer>
+			<key>ypos</key>
+			<integer>1140</integer>
+		</dict>
+		<key>74ACA8CC-8F72-4A09-9131-E2C94221E892</key>
+		<dict>
+			<key>xpos</key>
+			<integer>40</integer>
+			<key>ypos</key>
+			<integer>60</integer>
+		</dict>
+		<key>771F7EC7-164C-495B-ABAE-EAAF1E7C6FDB</key>
+		<dict>
+			<key>xpos</key>
+			<integer>370</integer>
+			<key>ypos</key>
+			<integer>220</integer>
+		</dict>
+		<key>7D67D0DB-EF51-4896-8296-C656C2A8C884</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>xpos</key>
+			<integer>970</integer>
+			<key>ypos</key>
+			<integer>690</integer>
+		</dict>
+		<key>918022B8-55F4-4591-ABA8-377AB9FE1C2D</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>3</integer>
+			<key>xpos</key>
+			<integer>370</integer>
+			<key>ypos</key>
+			<integer>800</integer>
+		</dict>
+		<key>C690088E-21FC-4E1C-9F94-EF748981F6B8</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>xpos</key>
+			<integer>680</integer>
+			<key>ypos</key>
+			<integer>720</integer>
+		</dict>
+		<key>F9CA9133-E174-47C8-A38D-4F1935D8300B</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>3</integer>
+			<key>xpos</key>
+			<integer>530</integer>
+			<key>ypos</key>
+			<integer>830</integer>
+		</dict>
+	</dict>
+	<key>version</key>
+	<string>0.1</string>
+	<key>webaddress</key>
+	<string>www.marketcircle.com</string>
+</dict>
+</plist>
